@@ -1,6 +1,8 @@
 RENCANA KONTEN MMS
 
 -Javascript
+  * ES6
+  * Framework Javascript
 -PHP Frameworks
 -Interview
 -Vlogs
